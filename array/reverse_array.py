@@ -6,7 +6,6 @@ import random
 import re
 import sys
 
-# Complete the reverseArray function below.
 def reverse_slice(ar):
     return ar[::-1]
 
